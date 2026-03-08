@@ -1,11 +1,11 @@
 
 <div align="center">
-#### *"Jack of all trades, master of... well, quite a few actually!"*
+*"Eoghan Carey of all trades, master of... well, quite a few actually!"*
 </div>
 
 ## 🤹 Professional Identity Crisis
 
-Hey there! I'm Eoghan Carey, the human Swiss Army knife of tech. Think of me as that one kitchen gadget that claims to do 47 different things - except I actually work! I juggle AI, Data Science, and Android development with the grace of a sugar-powered octopus. 
+Hey there! I'm EoghanCarey, the human Swiss Army knife of tech. Think of me as that one kitchen gadget that claims to do 47 different things - except I actually work! I juggle AI, Data Science, and Android development with the grace of a sugar-powered octopus. 
 
 > "He's like ChatGPT with a sense of humor and actual coding skills!" - *Someone, probably*
 
@@ -30,7 +30,7 @@ Hey there! I'm Eoghan Carey, the human Swiss Army knife of tech. Think of me as 
 - Known for turning "It's impossible" into "Oh, that's how you do it!"
 - Converts technical jargon into human-speak with only minimal loss in translation
 
-## 🛠️ The "Jack of All Trades" Arsenal
+## 🛠️ The "Eoghan of All Trades" Arsenal
 
 ### Languages I Speak:
 - Human (mostly)
@@ -68,15 +68,7 @@ Hey there! I'm Eoghan Carey, the human Swiss Army knife of tech. Think of me as 
 
 
 ## 📊 GitHub Stats That Make Me Look Good
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-kamil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@zaidkamil/42daebb9-b89b-40d8-ae73-836819dea7a2.png" /></a>
-
-## 🌐 Find Me in the Digital Realm
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-kamil-94211a40) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/XaidKamil)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zaid-kamil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xaid_kamil) 
----
 
 <div align="center">
 
@@ -91,7 +83,5 @@ Sugar crashes may result in temporary code refactoring sprees
 ```
 
 [![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=6&color=8)](https://visitcount.itsvg.in)
-
-*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it.*
 
 </div>
