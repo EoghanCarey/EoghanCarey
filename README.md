@@ -1,6 +1,6 @@
 
 <div align="center">
-*"Eoghan Carey of all trades, master of... well, quite a few actually!"*
+*"Jack of all trades, master of... well, quite a few actually!"*
 </div>
 
 ## 🤹 Professional Identity Crisis
