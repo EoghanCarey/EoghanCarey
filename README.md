@@ -143,18 +143,3 @@ Before the enterprise platform world, I built **40+ web platforms for SMEs**, he
 <a href="https://wakatime.com">
 <img src="https://wakatime.com/share/@zaidkamil/42daebb9-b89b-40d8-ae73-836819dea7a2.png" />
 </a>
-
-<div align="center">
-### ⚠️ Warning Labels
-```
-May spontaneously start talking about coding patterns or Brandon Sanderson plots
-Results may vary. Warranty void if candy supply depleted
-Side effects may include improved code quality and dad jokes
-Known to debug in shower
-Occasionally caught having deep conversations with AI models
-Sugar crashes may result in temporary code refactoring sprees
-```
-
-[![](https://visitcount.itsvg.in/api?id=zaid-kamil&icon=6&color=8)](https://visitcount.itsvg.in)
-
-</div>
